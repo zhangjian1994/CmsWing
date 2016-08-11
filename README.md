@@ -5,7 +5,6 @@
 > 码云地址：[http://git.oschina.net/arterli/CmsWing](http://git.oschina.net/arterli/CmsWing)
 
 
-## QQ 交流群: 49757468
 
 ## install dependencies
 
