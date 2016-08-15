@@ -4,10 +4,7 @@
 
 > 码云地址：[http://git.oschina.net/arterli/CmsWing](http://git.oschina.net/arterli/CmsWing)
 
-
-
 ## install dependencies
-
 ```
 npm install
 ```
